@@ -1,0 +1,40 @@
+.has-bg1 {
+    height: 80vh;
+    background-image: url("images/cover-1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+    padding-top: 200px;
+
+
+}
+
+.has-bg2 {
+    height: 80vh;
+    background-image: url("images/cover-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 200px;
+    background-position: center;
+
+
+}
+
+.has-bg3 {
+    height: 80vh;
+    background-image: url("images/cover-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 200px;
+    background-position: center;
+
+
+}
+
+footer {
+    height: 100%;
+    width: auto;
+}
